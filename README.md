@@ -9,7 +9,7 @@ Sobre Mí
 Mis Habilidades
 - Lenguajes de Programación: Python, JavaScript, Java, C++, Ruby, Smalltack, Haskell, Prolog
 - Tecnologías: HTML, CSS, React, Node.js, Anaconda Navigator
-- Herramientas: Visual Studio Code, Git, GitHub, Trello, Jira, Slack, 
+- Herramientas: Visual Studio Code, Git, GitHub, Trello, Jira, Slack, Postman
 
 
 Aprendizaje Continuo
